@@ -214,6 +214,10 @@ useEffect(() => {
 
 ---
 
+## 📊 Import History Dashboard Preview
+
+![Import History Dashboard](./assets/import-history-dashboard.png)
+
 ## 👨‍💻 Author
 
 **Sunny Yadav**
